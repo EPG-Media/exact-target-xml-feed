@@ -4,7 +4,7 @@
 ### Description:
 ###### This plugin creates a custom xml feed, formatted to be imported directly into Exact Target
 
-### Installation
+### Installation:
   1. Upload `exacttarget-xml-feed` to the `/wp-content/plugins/` directory
   2. Activate the plugin through the 'Plugins' menu in WordPress
   3. Add new configurations for categories found in setting tab -> exact-tartget-xml-feed.
